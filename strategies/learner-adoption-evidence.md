@@ -33,6 +33,11 @@ evidence instead of converting it into a pass.
 
 Use the evidence to choose retain, clarify, revise, add practice, or retire.
 Inspect subgroup and accessibility effects when data volume and consent permit.
+Treat attention as part of the evidence budget. Before adding a feedback
+request, use the working heuristic
+`P(usable feedback) × expected change in the decision ÷ attention cost`.
+Behavioral signals such as edits or abandonment can guide sampling, but they
+are implicit feedback, not proof of learning or failure.
 
 ## Accessibility
 

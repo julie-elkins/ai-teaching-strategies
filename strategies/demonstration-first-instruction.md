@@ -23,6 +23,14 @@ decision, evidence contract, stopping condition, and human handoff. Keep the
 demo offline or synthetic when live access would add cost, privacy risk, or
 irreproducibility.
 
+When teaching competing architectures, show the smallest working mechanism
+first, then compare it with one more complex variant on the same task. Use one
+focused diagram or figure to show the boundary between components, and include
+a small runnable or inspectable example so learners can connect the visual to
+the behavior. For multi-agent workflows, make the independent read path and
+the shared-write owner visible rather than presenting parallelism as an
+automatic improvement.
+
 ## Learner evidence
 
 The learner annotates the workflow, identifies the failure signal, and states
