@@ -33,6 +33,29 @@ task-level outcomes rather than only one aggregate score.
 Classify feedback as retain, clarify, revise, or retry. Use disagreement as a
 signal to calibrate the rubric, not as permission to force a label.
 
+## Attention-adjusted evidence value
+
+Treat human attention as part of the evidence budget. Use this working
+heuristic when deciding whether to ask for explicit feedback:
+
+```text
+attention-adjusted evidence value =
+  P(usable feedback)
+  × expected change in the decision
+  ÷ attention cost
+```
+
+Here, `P(usable feedback)` is the likelihood that a person will provide an
+answer that can be interpreted; expected change is the decision-relevant
+information the answer may add; and attention cost includes time, effort,
+context switching, and accessibility burden. This is a design heuristic, not a
+universal score or a replacement for human judgment.
+
+Implicit feedback—edits, retries, rejections, abandonment, or repeated
+requests—can identify cases for review when explicit labeling is expensive. It
+must remain a signal, not an automatic pass/fail label, because the same
+behavior can have several explanations.
+
 ## Accessibility
 
 Offer feedback in the same medium as the task when possible, with plain-language
