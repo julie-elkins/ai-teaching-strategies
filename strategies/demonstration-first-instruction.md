@@ -31,6 +31,20 @@ the behavior. For multi-agent workflows, make the independent read path and
 the shared-write owner visible rather than presenting parallelism as an
 automatic improvement.
 
+## 🧭 Take this forward
+
+End the demonstration with a short transfer handoff:
+
+- **Remember:** the decision or control the learner should retain.
+- **Try next:** one bounded action the learner can perform.
+- **Inspect:** the evidence that should support or challenge the result.
+- **Do not infer:** the most important claim the demonstration does not prove.
+
+In repository Markdown, use this emoji-and-heading blockquote so the signal
+remains visible even when a renderer does not preserve background styling. In
+slides, HTML-rendered lessons, and video assets, use the course's pale blue
+take-forward fill with a navy outline. Do not make color the only cue.
+
 ## Learner evidence
 
 The learner annotates the workflow, identifies the failure signal, and states

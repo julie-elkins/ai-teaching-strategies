@@ -10,6 +10,7 @@ artifact, full limitation, and revision history live.
 | Show the smallest working path | [Demonstration-first instruction](strategies/demonstration-first-instruction.md) | [Claude Evaluation Lab](https://github.com/julie-elkins/claude-evaluation-lab) |
 | Show the failure and the stop | [Failure-driven labs](strategies/failure-driven-labs.md) | [Agent Assurance Harness](https://github.com/julie-elkins/agent-assurance-harness) |
 | Ask the viewer to inspect evidence | [Assessment and feedback](strategies/assessment-and-feedback.md) | [Agent Systems Design Guide](https://github.com/julie-elkins/agent-systems-design-guide) |
+| Close: name the transfer | [Demonstration-first instruction](strategies/demonstration-first-instruction.md) | [Claude Evaluation Lab](https://github.com/julie-elkins/claude-evaluation-lab) |
 | Invite responsible reuse | [Learner adoption evidence](strategies/learner-adoption-evidence.md) | [AI Design Guides](https://github.com/julie-elkins/ai-design-guides) |
 
 Views, likes, and comments help choose what to explain next. They do not by

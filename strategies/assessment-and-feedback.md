@@ -33,6 +33,13 @@ task-level outcomes rather than only one aggregate score.
 Classify feedback as retain, clarify, revise, or retry. Use disagreement as a
 signal to calibrate the rubric, not as permission to force a label.
 
+## 🧭 Take this forward
+
+Close feedback with one visible next-step handoff. Name what the learner should
+remember, what they should change or try, what evidence they should inspect,
+and what the feedback does not establish. This keeps feedback connected to the
+next decision instead of ending with a score alone.
+
 ## Attention-adjusted evidence value
 
 Treat human attention as part of the evidence budget. Use this working
