@@ -9,6 +9,7 @@ canonical source for lessons, labs, fixtures, and implementation details.
 | Make a system boundary visible | [Demonstration-first instruction](strategies/demonstration-first-instruction.md) | [Claude Evaluation Lab](https://github.com/julie-elkins/claude-evaluation-lab) |
 | Teach why a control matters | [Failure-driven labs](strategies/failure-driven-labs.md) | [Agent Assurance Harness](https://github.com/julie-elkins/agent-assurance-harness) |
 | Assess evidence instead of polish | [Assessment and feedback](strategies/assessment-and-feedback.md) | [Agent Systems Design Guide](https://github.com/julie-elkins/agent-systems-design-guide) |
+| Connect domain data to a decision | [Domain evidence and source trust](strategies/domain-evidence-and-source-trust.md) | [Claude Evaluation Lab](https://github.com/julie-elkins/claude-evaluation-lab) |
 | Prepare multiple facilitators | [Instructor calibration](strategies/instructor-calibration.md) | [Agent Assurance Harness instructor calibration](https://github.com/julie-elkins/agent-assurance-harness#instructor-calibration) |
 | Decide what to improve next | [Learner adoption evidence](strategies/learner-adoption-evidence.md) | [AI Design Guides hub](https://github.com/julie-elkins/ai-design-guides) |
 
