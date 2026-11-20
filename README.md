@@ -18,6 +18,7 @@ card:
 - [Demonstration-first instruction](strategies/demonstration-first-instruction.md)
 - [Failure-driven labs](strategies/failure-driven-labs.md)
 - [Assessment and feedback](strategies/assessment-and-feedback.md)
+- [Domain evidence and source trust](strategies/domain-evidence-and-source-trust.md)
 - [Instructor calibration](strategies/instructor-calibration.md)
 - [Learner adoption evidence](strategies/learner-adoption-evidence.md)
 
