@@ -19,6 +19,7 @@ card:
 - [Failure-driven labs](strategies/failure-driven-labs.md)
 - [Assessment and feedback](strategies/assessment-and-feedback.md)
 - [Domain evidence and source trust](strategies/domain-evidence-and-source-trust.md)
+- [Evaluate the control path](strategies/evaluate-the-control-path.md)
 - [Instructor calibration](strategies/instructor-calibration.md)
 - [Learner adoption evidence](strategies/learner-adoption-evidence.md)
 
